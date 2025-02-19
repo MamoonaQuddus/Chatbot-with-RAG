@@ -8,3 +8,4 @@ pypdf2
 python-docx
 transformers
 faiss-cpu
+zstandard
