@@ -21,8 +21,8 @@ AI Chatbot is a Streamlit-based application that enables users to interact with 
 ## 📥 Installation
 ### 1. Clone the Repository
 ```sh
- git clone https://github.com/your-repo/ai-chatbot.git
- cd ai-chatbot
+ git clone https://github.com/MamoonaQuddus/Chatbot-with-RAG.git
+ cd Chatbot-with-RAG
 ```
 
 ### 2. Create a Virtual Environment (Optional but Recommended)
@@ -47,22 +47,13 @@ streamlit run app.py
 3. Type a question in the chat input field.
 4. View AI-generated responses with source references.
 
-## 📂 Project Structure
-```
-📦 ai-chatbot
- ┣ 📜 app.py  # Main application file
- ┣ 📜 styles.css  # Custom CSS styles
- ┣ 📜 requirements.txt  # Dependencies
- ┗ 📂 temp/  # Temporary storage for uploaded files
-```
-
 ## 📝 Future Enhancements
 - Add support for multiple AI models.
 - Improve document chunking for better retrieval.
 - Enhance UI with more interactive elements.
 
 ## 👨‍💻 Author
-Developed by **Mamoona Quddus known as Error Girl**
+Developed by **Mamoona Quddus known as Error Girl 👩‍💻**
 
 ## 📜 License
 This project is licensed under the MIT License.
